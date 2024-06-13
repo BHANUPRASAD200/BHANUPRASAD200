@@ -11,37 +11,30 @@ I am a Full Stack Developer and Artificial Intelligence enthusiast with a degree
 
 ## 🛠️ Skills
 ### Languages
-- JavaScript
 - Python
 - Java
-- C++
+- C 
+- JavaScript
+
 
 ### Frontend Development
 - HTML5, CSS3
-- React.js
-- Angular
 - Bootstrap
 
 ### Backend Development
 - Node.js
-- Express.js
 - Django
-- Spring Boot
 
 ### Database Management
-- MongoDB
 - MySQL
 - PostgreSQL
 
 ### Tools & Platforms
 - Git & GitHub
 - Docker
-- Kubernetes
-- AWS, Azure
 
 ### Artificial Intelligence & Machine Learning
 - TensorFlow
-- Keras
 - PyTorch
 - Scikit-Learn
 
