@@ -82,12 +82,11 @@ A passionate and driven **final-year Computer Science undergraduate** with a str
 
 ## 🛠 Technical Skills
 
-**Languages:** Python, C, HTML, CSS, JavaScript  
-**Web Dev:** React.js, Django, Flutter  
-**AI/ML:** YOLO, CNN, GenAI, Scikit-learn  
-**Tools:** VS Code, GitHub, Jupyter, Notion, Canva  
-**Embedded & Design:** Arduino, Autodesk Fusion 360  
-**Databases:** PostgreSQL, Firebase  
+**Languages:** Python, C, Java, HTML, CSS, JavaScript, TypeScript  
+**FrameWorks:** React.js, Django, Flutter, Angular.js  
+**AI/ML:** YOLO, CNN, GenAI, RAG  
+**Tools:** VS Code, GitHub, Jupyter, Notion, Canva, Kaggle, Postman, Markdown, Android Studio, Autodesk Fusion 360, Docker    
+**Databases:** PostgreSQL, Firebase, Google Cloud  
 **Version Control:** Git  
 
 ---
