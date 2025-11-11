@@ -60,7 +60,7 @@ A passionate and driven **final-year Computer Science undergraduate** with a str
 
 ### 🔊 Navigation Guidance System for the Visually Impaired  
 - **Tech**: YOLOv8, Python, AI, ML, TTS  
-- **Impact**: Enhanced accessibility through immediate voice-based feedback and environment-aware navigation guidance.  
+- **Impact**: Enhanced accessibility through immediate voice-based feedback and environment-aware navigation guidance.  
 - **Patent Published**: Indian Patent Office Journal No. 40/2025, Patent No. 202541086021 A, Issued on Oct 3, 2025.
 
 ### 🧠 Content Similarity Detection using Cosine Similarity  
