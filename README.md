@@ -94,11 +94,11 @@ A passionate and driven **final-year Computer Science undergraduate** with a str
 ## 🌟 Leadership & Extracurriculars
 
 - **National Space Seminar Events Coordinator**  
-  - Hosted Space 2.0, 3.0, 4.0 events at ACS Space Centre  
+  - Hosted Space 2.0, 3.0, 4.0 events at Dr. MGR-ACS Space Centre  
   - Organized National Space Day 2024
 - **Magazine Editor**  
   - *Vidyarthi Magazine* (Dept. of CSE)  
-  - *Space Technology ePUB* (ACS Space Centre)
+  - *Space Technology ePUB* (Dr. MGR-ACS Space Centre)
 - **CanSat Team – Structural Designer & GCS Operator**
 - **Conferences Attended**:
   - NSSS 2024, Goa (National Space Science Symposium)
