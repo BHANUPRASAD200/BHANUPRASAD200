@@ -59,9 +59,9 @@ A passionate and driven **final-year Computer Science undergraduate** with a str
 ## 💻 Notable Projects
 
 ### 🔊 Navigation Guidance System for the Visually Impaired  
-- **Tech**: YOLOv5, Python, AI, TTS  
-- **Impact**: Helped visually impaired users detect and locate objects using real-time voice feedback.  
-- **Published**: Demonstrated to ABET committee, published in international journal.
+- **Tech**: YOLOv8, Python, AI, ML, TTS  
+- **Impact**: Enhanced accessibility through immediate voice-based feedback and environment-aware navigation guidance.  
+- **Patent Published**: Indian Patent Office Journal No. 40/2025, Patent No. 202541086021 A, Issued on Oct 3, 2025.
 
 ### 🧠 Content Similarity Detection using Cosine Similarity  
 - **Tech**: Python, NLTK, TF-IDF, Scikit-learn  
