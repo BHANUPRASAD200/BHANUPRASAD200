@@ -1,6 +1,6 @@
 # Hi there, I'm RAMINENI BHANU PRASAD 👋
 
-A passionate and driven **final-year Computer Science undergraduate** with a strong foundation in **LiDAR-based SLAM**, **data science**, and **satellite payload design**. I thrive on leveraging cutting-edge technologies like **AI/ML**, **computer vision**, and **modern web development** to build real-world impactful solutions.
+A recent Computer Science graduate with a passion for pioneering solutions at the intersection of cutting-edge technologies. My experience at **ISRO** and **TSC Tech Labs** has equipped me with hands-on expertise in **LiDAR-based SLAM **and **satellite systems**. I am now seeking to apply my skills in **AI, Quantum ML, and Space Technology** to solve complex, real-world challenges.
 
 [![Website](https://img.shields.io/badge/Portfolio-Visit%20Now-00bfff?style=for-the-badge&logo=vercel&logoColor=white)](https://bhanuprasad.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-BHANUPRASAD200-24292f?style=for-the-badge&logo=github)](https://github.com/BHANUPRASAD200)
